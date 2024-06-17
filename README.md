@@ -5,6 +5,6 @@
 User harus mempunyai akun kaggle, dan mendownload api file kaggle.json melalui settings akun kaggle.
 
 Untuk menggunakan aplikasi, user dapat melakukan run dengan urutan sesuai code-block yang ada di notebook di google colab.
-> Block pertama untuk upload api key dan training dataset
-> Block kedua untuk mendapatkan IP dari runtime, digunakan sebagai "password" untuk mengakses web app streamlit
-> Block ketiga untuk menjalankan backend web streamlit dan menghasilkan url webapp
+> Block pertama untuk upload api key dan training dataset \n
+> Block kedua untuk mendapatkan IP dari runtime, digunakan sebagai "password" untuk mengakses web app streamlit \n
+> Block ketiga untuk menjalankan backend web streamlit dan menghasilkan url webapp \n
